@@ -1,0 +1,2 @@
+class ExternalServerCalledFailure(Exception):
+    pass

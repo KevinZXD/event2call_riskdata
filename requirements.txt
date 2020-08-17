@@ -1,0 +1,5 @@
+requests==2.18.4
+sanic==0.7.0
+tenacity==5.1.1
+aiocache==0.10.0
+aiocache[redis]==0.10.0
